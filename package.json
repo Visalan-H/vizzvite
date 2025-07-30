@@ -1,0 +1,10 @@
+{
+  "name": "create-vizzvite",
+  "version": "1.0.2",
+  "description": "CLI tool to scaffold React+Vite projects with zero boilerplate",
+  "bin": {
+    "create-vizzvite": "index.js"
+  },
+  "author": "Visalan H",
+  "license": "MIT"
+}
